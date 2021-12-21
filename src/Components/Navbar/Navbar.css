@@ -1,0 +1,39 @@
+*{
+    box-sizing: border-box;
+}
+
+body{
+    margin: 0;
+}
+
+.nav-container{
+    position: sticky;
+    top: 0;
+    width: 550px;
+    height: 55px;
+    left: 0px;
+    right: 0px;
+    background: #f55a5a;
+    margin-bottom: 25px;
+}
+.title-cont{
+    display: flex;
+    justify-content: center;
+    gap: 8px;
+}
+
+.title{
+    color: white;
+    font-weight: 500;
+    line-height: 18px;
+    letter-spacing: -0.075em;
+    font-size: 15px;
+    text-align: center;
+
+}
+
+.logo{
+    font-size: 25px;
+    align-self: center;
+    color: #FFFFFF;
+}
