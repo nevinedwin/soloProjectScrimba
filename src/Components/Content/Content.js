@@ -5,7 +5,7 @@ import { ImLocation } from 'react-icons/im'
 function Content(props) {
     return (
         <div className='cont-cont'>
-            <img src={`../../Images/${props.img}`} alt="" className='cont-img' />
+            <img src={props.img} alt="" className='cont-img' />
             <div className='cont-d'>
                 <div className='cont-short'>
                     < ImLocation className="cont-logo" />

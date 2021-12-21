@@ -1,6 +1,6 @@
 export default [{
     id: 1,
-    img: "pic1.jpg",
+    img: "https://images.unsplash.com/photo-1589308078059-be1415eab4c3?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80",
     location: "JAPAN",
     title: "Mount Fuji",
     date: "12 Jan, 2021 - 24 Jan, 2021",
@@ -9,7 +9,7 @@ export default [{
 },
 {
     id: 2,
-    img: "pic2.jpg",
+    img: "https://images.unsplash.com/photo-1624138784614-87fd1b6528f8?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1033&q=80",
     location: "AUSTRALIA",
     title: "Sydney Opera House",
     date: "27 May, 2021 - 8 Jun, 2021",
@@ -19,7 +19,7 @@ export default [{
 },
 {
     id: 3,
-    img: "pic3.jpg",
+    img: "https://images.unsplash.com/photo-1601439678777-b2b3c56fa627?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80",
     location: "NORWAY",
     title: "Geirangerfjord",
     date: "01 Oct, 2021 - 18 Nov, 2021",
