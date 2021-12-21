@@ -1,4 +1,3 @@
-import { ImOpt } from 'react-icons/im';
 import './App.css';
 import Content from './Components/Content/Content';
 import Navbar from './Components/Navbar/Navbar';
